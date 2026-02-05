@@ -1,1 +1,1 @@
-# Statistic-Project
+# Computational Statistic - GLM and Bayesian Inference
