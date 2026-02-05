@@ -22,6 +22,8 @@ convergence and efficiency assessed through:
 - Acceptance rates
 
 ## Repository Structure
-- `GLM_Bayesian_Inference.ipynb`: main notebook containing implementation, analysis, and results
-- `report.pdf`: full academic report with theoretical derivations discussion
+- `GLM_Bayesian_Inference.ipynb`: main notebook containing implementation, analysis, and results  
+- `Data`: folder containing the datasets used in the project, along with a brief description of each dataset  
+- `report.pdf`: full academic report with theoretical derivations and detailed discussion
+
 
