@@ -30,6 +30,6 @@ convergence and efficiency assessed through:
 This project was developed collaboratively by:
 - Davide Pastori
 - Giacomo Puglielli
-- Jacopo Favaro
+- Jacopo Favaro  
 All aspects of the project, including modelling, implementation, and analysis, were carried out jointly.
 
