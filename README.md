@@ -26,4 +26,10 @@ convergence and efficiency assessed through:
 - `Data`: folder containing the datasets used in the project, along with a brief description of each dataset  
 - `report.pdf`: full academic report with theoretical derivations and detailed discussion
 
+## Authors
+This project was developed collaboratively by:
+- Davide Pastori
+- Giacomo Puglielli
+- Jacopo Favaro
+All aspects of the project, including modelling, implementation, and analysis, were carried out jointly.
 
